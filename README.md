@@ -87,6 +87,6 @@ Dependencies: Pandas, Scikit-Learn, Tensorflow
 
 
 # Summary:
-After attempting to optimize this neural network model and running many different iterations, I was unable to achieve our target accuracy of 75%. By changing the activtion function of the hidden layers, I reached a maximum of 72.7% accuracy. 
+After attempting to optimize this neural network model and running many different iterations, I was unable to achieve our target accuracy of 75%. By changing the activation function of the hidden layers, I reached a maximum of 72.7% accuracy. 
 
 To achieve our 75% target accuracy, I would suggest to attempt a Random Forest Classifier. This is a powerful model that combines multiple smaller models into a more robust and accurate model. Since our data does not contain images, we can easily preprocess our tabular data to work for this model. 
